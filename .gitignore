@@ -1,0 +1,18 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.VC.db
+*.sln
+*.opensdf
+*.sdf
+*.suo
+
+# Build artifacts
+*.pch
+*.obj
+*.log
+*.tmp
